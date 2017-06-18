@@ -32,6 +32,8 @@ RUN apt-get update && apt-get install -y \
 		libtiff5-dev \
 		libwebp-dev \
 		libzmq3-dev \
+                python-opencv \
+                libopencv-dev \
 		nano \
 		pkg-config \
 		python-dev \
